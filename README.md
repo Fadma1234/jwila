@@ -20,6 +20,4 @@ A simple website project to practice HTML, CSS.
 
 Usage
 
-Edit the HTML or CSS files to customize the project.
-
-Refresh the browser to see changes.
+Click the link on the right side of the page under about
